@@ -25,14 +25,11 @@ The project compares different machine learning models and analyzes key factors 
 ```
 Road-Accident-Severity-ML/
 │
-├── Research Paper/
-│ └── Research Paper.pdf
-│
-├── Dataset/
-│ └── US_Accidents_March23.csv (not included due to size)
-│
 ├── Code/
 │ └── road_accidents.html
+│
+├── Research Paper/
+│ └── Research Paper.pdf
 │
 └── README.md
 ```
@@ -131,12 +128,12 @@ Future improvements:
 
 ## Authors / Team Members
 
-Chamali Abeysekara  
+Rajintha Lakshani
 BSc in Applied Data Science Communication  
 
 Team Members / Contributors:
 
-RL Hewanayaka  
+WACI Abeysekara  
 MZM Hussein  
 MN Mohamed 
 
